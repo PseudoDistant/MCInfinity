@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "mcinfinity",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "MCInfinity",
+  "description": "Restores 20w14infinite in modern Minecraft",
   "authors": [
-    "Me!"
+    "FarlanderCraft"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
+    "homepage": "https://www.youtube.com/channel/UCNW_V3BfkWXcMtCEIGQyaBA",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "io.github.farlandercraft.mcinfinity.Main"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "mcinfinity.mixins.json"
   ],
 
   "depends": {
@@ -32,6 +32,6 @@
     "minecraft": "1.16.x"
   },
   "suggests": {
-    "another-mod": "*"
+
   }
 }

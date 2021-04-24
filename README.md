@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# MCInfinity
 
-## Setup
+## Infinite Content Mod for Minecraft: Java Edition
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
+(An attempt to upport features from the Infinite Content Update snapshot 20w14infinite)
 ## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+### MIT
+Feel free to use the files in this project in any way you like.
