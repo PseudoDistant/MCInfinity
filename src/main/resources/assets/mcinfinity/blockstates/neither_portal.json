@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mcinfinity:block/neither_portal_ns"
+    },
+    "axis=z": {
+      "model": "mcinfinity:block/neither_portal_ew"
+    }
+  }
+}
